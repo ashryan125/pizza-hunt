@@ -6,7 +6,7 @@ A pizza recipe app that allows you to suggest pizza toppings and size and allow 
 ---
 
 ## Deployed Site
-[Pizza Hunt](#)
+[Pizza Hunt](https://lit-hamlet-01101.herokuapp.com/ )
 
 ---
 
